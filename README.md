@@ -1,1 +1,1 @@
-# madewithml
+# dcgan
